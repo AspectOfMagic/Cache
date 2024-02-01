@@ -1,5 +1,5 @@
 # Cache
-- Author of cacher.c and Makefile: Jason Wu
+Author of cacher.c and Makefile: Jason Wu
 
 ==========[Introduction]
 
@@ -8,7 +8,7 @@ whether the item that was accessed is a HIT or MISS. If the lookup is a miss, it
 
 ==========[Installation]
 
-You will need Linux x86_64
+You will need Linux x86_64 or macOS environment
 
 ==========[Usage]
 
