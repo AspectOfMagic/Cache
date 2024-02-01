@@ -15,7 +15,7 @@ You will need Linux x86_64 or macOS
 $ ./cacher [-N size] \<policy\>
 
 - size: the size of your cache, or number of items that can be stored in cache(not optional)
-- policy: the policy that the cache will follow; the policy flag needs to be exactly -F (First on First out), -L (Least Recently Used), or -C (Clock); this argument is optional(First in First out if no policy is given)
+- policy: the policy that the cache will follow; the policy flag needs to be exactly -F (First on First out), -L (Least Recently Used), or -C (Clock); this argument is optional(First in First out if no policy is given).
 
 ==========[Todo]
 
